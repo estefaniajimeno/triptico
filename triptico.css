@@ -1,0 +1,56 @@
+
+.titulo{
+   
+   border: 1px solid black;
+   background:orange;
+   height:30px;
+   width: 603px;
+   text-align: center;
+   
+
+   
+  }
+   
+
+#box_1 { 
+	float:left;
+	width:190px;
+	height:400px;
+	background: white;
+	display: inline-block;
+	border: 1px solid black;
+	text-align: center;
+	
+}
+
+#box_2 { 
+	float:left; 
+	width: 220px;
+	height:400px;
+	background:white;
+	display:inline-block;
+	border: 1px solid black;
+	text-align: center;
+	
+}
+
+#box_3 { 
+	float:left;
+	width: 190px;
+	height:400px;
+	background:white;
+	display: inline-block;
+	border: 1px solid black;
+	text-align: center;
+	
+}
+
+.contenedor{
+	overflow:hidden; 
+	clear:both;
+	height:400px;
+}
+
+
+   
+   
